@@ -1,0 +1,4 @@
+node_modules/
+Thuumbs.db
+*.log
+.cache
